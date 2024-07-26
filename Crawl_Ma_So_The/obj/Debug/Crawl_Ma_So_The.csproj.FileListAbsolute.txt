@@ -1,0 +1,11 @@
+E:\Lập trình\Crawl_Ma_So_The\Crawl_Ma_So_The\bin\Debug\Crawl_Ma_So_The.exe.config
+E:\Lập trình\Crawl_Ma_So_The\Crawl_Ma_So_The\bin\Debug\Crawl_Ma_So_The.exe
+E:\Lập trình\Crawl_Ma_So_The\Crawl_Ma_So_The\bin\Debug\Crawl_Ma_So_The.pdb
+E:\Lập trình\Crawl_Ma_So_The\Crawl_Ma_So_The\bin\Debug\HtmlAgilityPack.dll
+E:\Lập trình\Crawl_Ma_So_The\Crawl_Ma_So_The\bin\Debug\HtmlAgilityPack.pdb
+E:\Lập trình\Crawl_Ma_So_The\Crawl_Ma_So_The\bin\Debug\HtmlAgilityPack.xml
+E:\Lập trình\Crawl_Ma_So_The\Crawl_Ma_So_The\obj\Debug\Crawl_Ma_So_The.csproj.AssemblyReference.cache
+E:\Lập trình\Crawl_Ma_So_The\Crawl_Ma_So_The\obj\Debug\Crawl_Ma_So_The.csproj.CoreCompileInputs.cache
+E:\Lập trình\Crawl_Ma_So_The\Crawl_Ma_So_The\obj\Debug\Crawl_Ma_So_The.exe
+E:\Lập trình\Crawl_Ma_So_The\Crawl_Ma_So_The\obj\Debug\Crawl_Ma_So_The.pdb
+E:\Lập trình\Crawl_Ma_So_The\Crawl_Ma_So_The\obj\Debug\Crawl_Ma.4BB8ABAC.Up2Date
